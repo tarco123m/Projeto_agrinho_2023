@@ -1,15 +1,30 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.7.0/p5.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.7.0/addons/p5.sound.min.js"></script>
+<html lang="tp-br">
+  <header>
     <link rel="stylesheet" type="text/css" href="style.css">
     <meta charset="utf-8" />
-
-  </head>
-  <body>
-    <main>
-    </main>
-    <script src="sketch.js"></script>
-  </body>
-</html>
+<h1>Informações sobre as doações</h1>
+    
+       <form action="/pagina-processa-dados-do-form" method="post">
+  <div>
+    <label for="nome">Nome:</label>
+    <input type="text" id="nome" />
+  </div>
+  <div>
+    <label for="inf.sobre o ben.">Informação sobre o Beneficiante:</label>
+   <textarea id="msg"></textarea>
+    
+    <header>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+<h1>Pessoa que doou</h1>
+    
+       <form action="/pagina-processa-dados-do-form" method="post">
+  <div>
+    <label for="nome">Nome:</label>
+    <input type="text" />
+  </div>
+  <div>
+    <label for="doação">Doação:</label>
+   <textarea id="doação"></textarea>
+    
