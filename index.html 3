@@ -1,15 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.7.0/p5.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.7.0/addons/p5.sound.min.js"></script>
+<html lang="tp-br">
+  <header>
     <link rel="stylesheet" type="text/css" href="style.css">
     <meta charset="utf-8" />
-
-  </head>
-  <body>
-    <main>
-    </main>
-    <script src="sketch.js"></script>
-  </body>
-</html>
+<h1>Ajude sem querer nada em troca, seja alguém que poça se orgulhar. Seja nosso amigo</h1>
+      
+    <form action="/pagina-processa-dados-do-form" method="post">
+  <div>
+   
+    <div class="button">
+    <button type="submit">Próxima página</button>
+  </div>
+    
