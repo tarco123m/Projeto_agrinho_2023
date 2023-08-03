@@ -1,4 +1,11 @@
-<form action="/pagina-processa-dados-do-form" method="post">
+<!DOCTYPE html>
+<html lang="tp-br">
+  <header>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+<h1>Cadastro do voluntário</h1>
+    
+    <form action="/pagina-processa-dados-do-form" method="post">
   <div>
     <label for="nome">Nome:</label>
     <input type="nome" id="nome" />
